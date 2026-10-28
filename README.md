@@ -1,4 +1,5 @@
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# NAME : JEHU PHINEHAS J 212224060109
 Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
