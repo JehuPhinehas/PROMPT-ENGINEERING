@@ -162,7 +162,8 @@ Major Applications
 ```
 #### Generated Image:
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b48435fa-b877-4798-944c-bf619e222f8f" />
+<img width="2836" height="1504" alt="Gemini_Generated_Image_x021aox021aox021" src="https://github.com/user-attachments/assets/e2a4f810-729a-4905-83a5-ddf0f499db6e" />
+
 
 
 ### Prompt 4 (RESPONSE):
