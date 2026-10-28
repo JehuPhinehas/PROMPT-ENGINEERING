@@ -130,7 +130,8 @@ Plaintext
 ```
 #### Generated Image:
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/2c4bad84-40a3-455a-a3a7-fc0593ede299" />
+<img width="2778" height="1536" alt="Gemini_Generated_Image_l1oyppl1oyppl1oy" src="https://github.com/user-attachments/assets/34495a41-a14e-4501-a5f6-4a2f0709b02f" />
+
 
 
 ### Prompt 3 (RESPONSE):
