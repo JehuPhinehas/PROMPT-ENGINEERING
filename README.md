@@ -267,7 +267,7 @@ Cybersecurity
 ```
 #### Generated Image:
 
-<img width="2400" height="1792" alt="Gemini_Generated_Image_ycx1nwycx1nwycx1" src="https://github.com/user-attachments/assets/5a37c806-a113-41b7-a744-c4f17ffc2fb7" />
+<img width="2192" height="1792" alt="Gemini_Generated_Image_ycx1nwycx1nwycx1" src="https://github.com/user-attachments/assets/98af134e-9280-4b8a-825b-f449fcaf525d" />
 
 
 
